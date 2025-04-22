@@ -1,4 +1,5 @@
 mod gui;
+mod ffmpeg;
 
 use gtk::prelude::*;
 use gtk::Application;
